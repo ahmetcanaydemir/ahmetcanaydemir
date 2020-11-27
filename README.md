@@ -60,3 +60,5 @@ Currently pursuing my bachelor's senior degree majoring in computer science from
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=Jira)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-yellowgreen?style=flat&logo=visual-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-yellowgreen?style=flat&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-blueviolet?style=flat&logo=adobe-xd&logoColor=white)
