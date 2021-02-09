@@ -10,7 +10,7 @@
 Currently pursuing my bachelor's senior degree majoring in computer science from [Konya Techinal University](https://ktun.edu.tr/). Also I'm passionate about Deep Learning, JavaScript, Go and C\#. I also develop at kodvizit which is my own initiative. I am always open to collaborating on projects and innovative ideas. Feel free to connect me.
 
 - 🔭 I’m currently working on my graduation project
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning graphql, mongodb
 - 💬 Ask me about javascript, c#, python
 - 📫 How to reach me: root@ahmetcanaydemir.com
 
