@@ -7,7 +7,7 @@
 
 <div style="margin-bottom: 40px"></div>
 
-Currently pursuing my bachelor's senior degree majoring in computer science from [Konya Techinal University](https://ktun.edu.tr/). Also I'm passionate about Deep Learning, JavaScript, Go and C\#. I also develop at kodvizit which is my own initiative. I am always open to collaborating on projects and innovative ideas. Feel free to connect me.
+Currently pursuing my bachelor's senior degree majoring in computer engineering from [Konya Techinal University](https://ktun.edu.tr/). Also I'm passionate about Deep Learning, JavaScript, Go and C\#. I also develop at kodvizit which is my own initiative. I am always open to collaborating on projects and innovative ideas. Feel free to connect me.
 
 - 🔭 I’m currently working on my graduation project
 - 🌱 I’m currently learning graphql, mongodb
@@ -63,8 +63,8 @@ Currently pursuing my bachelor's senior degree majoring in computer science from
 ![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-blueviolet?style=flat&logo=adobe-xd&logoColor=white)
 
-## GitHub Analytics 📊
+## GitHub Stats 📊
 
 <a href="https://github.com/ahmetcanaydemir">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetcanaydemir&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ahmetcanaydemir"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetcanaydemir&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ahmetcanaydemir"/>
 </a>
