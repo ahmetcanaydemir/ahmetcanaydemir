@@ -62,3 +62,9 @@ Currently pursuing my bachelor's senior degree majoring in computer science from
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-yellowgreen?style=flat&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-blueviolet?style=flat&logo=adobe-xd&logoColor=white)
+
+## GitHub Analytics 📊
+
+<a href="https://github.com/ahmetcanaydemir">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetcanaydemir&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ahmetcanaydemir"/>
+</a>
