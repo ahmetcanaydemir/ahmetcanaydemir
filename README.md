@@ -65,6 +65,11 @@ Currently pursuing my bachelor's senior degree majoring in computer engineering 
 
 ## GitHub Stats 📊
 
-<a href="https://github.com/ahmetcanaydemir">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetcanaydemir&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ahmetcanaydemir"/>
-</a>
+<div>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetcanaydemir&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true&hide_title=true" alt="ahmetcanaydemir stats"/>
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcanaydemir&layout=compact&hide=Jupyter%20Notebook,CSS,HTML,TSQL&langs_count=6&hide_title=true&locale=en&theme=algolia" alt="ahmetcanaydemir most used languages"/>
+  </a>
+</div>
