@@ -1,8 +1,6 @@
 ## Hi there, I'm Ahmet Can <img src="assets/hi.gif" width="30px">
 
-[![Gmail Badge](https://img.shields.io/badge/-root@ahmetcanaydemir.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:root@ahmetcanaydemir.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Ahmet%20Can%20Aydemir-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetcanaydemir/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@kodvizit-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/kodvizit "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@ahmetcnaydemir-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ahmetcnaydemir "Follow on Twitter")
 
 <div style="margin-bottom: 40px"></div>
