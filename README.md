@@ -5,10 +5,10 @@
 
 <div style="margin-bottom: 40px"></div>
 
-Currently pursuing my bachelor's senior degree majoring in computer engineering from [Konya Techinal University](https://ktun.edu.tr/). Also I'm passionate about Deep Learning, JavaScript, Go and C\#. I also develop at kodvizit which is my own initiative. I am always open to collaborating on projects and innovative ideas. Feel free to connect me.
+I am working as Software Engineer at Hepsiburada in Istanbul, Turkey. I'm passionate about Deep Learning, JavaScript, Go, and C\#. I also develop at kodvizit which is my own initiative. I am always open to collaborating on projects and innovative ideas. Feel free to connect with me.
 
 - 🔭 I’m currently working on a cool private project
-- 🌱 I’m currently learning redis
+- 🌱 I’m currently learning kafka, elastic stack
 - 💬 Ask me about javascript, c#
 - 📫 How to reach me: root _[at]_ ahmetcanaydemir.com
 
