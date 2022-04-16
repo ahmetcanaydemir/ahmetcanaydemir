@@ -10,7 +10,7 @@ I am working as Software Engineer at Hepsiburada in Istanbul, Turkey. I'm passio
 - 🔭 I’m currently working on a cool private project
 - 🌱 I’m currently learning apache cassandra, couchbase
 - 💬 Ask me about javascript, c#, go
-- 📫 How to reach me: a _[at]_ ahmetcan.org
+- 📫 How to reach me: ahmetcan _[at]_ ahmetcan.org
 
 <div style="margin-bottom: 40px"></div>
 
