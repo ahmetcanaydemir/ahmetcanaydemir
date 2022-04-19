@@ -50,11 +50,11 @@ I am working as Software Engineer at Hepsiburada in Istanbul, Turkey. I'm passio
 
 ## GitHub Stats 📊
 
-<div>
+<div align="center">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetcanaydemir&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true&hide_title=true" alt="ahmetcanaydemir stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmetcanaydemir&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true&hide_title=true" alt="ahmetcanaydemir stats"/>
   </a>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcanaydemir&layout=compact&hide=Jupyter%20Notebook,CSS,HTML,TSQL&langs_count=7&hide_title=true&locale=en&theme=algolia" alt="ahmetcanaydemir most used languages"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcanaydemir&layout=compact&hide=Jupyter%20Notebook,CSS,HTML,TSQL&langs_count=7&hide_title=true&locale=en&theme=algolia" alt="ahmetcanaydemir most used languages"/>
   </a>
 </div>
