@@ -1,4 +1,4 @@
-## Hi there, I'm Ahmet Can <img src="assets/hi.gif" width="30px">
+## Hi there, I'm Ahmet Can
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ahmet%20Can%20Aydemir-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetcanaydemir/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@ahmetcnaydemir-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ahmetcnaydemir "Follow on Twitter")
