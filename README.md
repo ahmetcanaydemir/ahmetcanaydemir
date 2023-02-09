@@ -5,7 +5,7 @@
 
 <div style="margin-bottom: 40px"></div>
 
-I am working as Software Development Engineer at Amazon. I'm passionate about Go, JavaScript, and C\#. I also develop at kodvizit which is my own initiative. I am always open to collaborating on projects and innovative ideas. Feel free to connect with me.
+As a Software Development Engineer at Amazon, I am driven by my passion for programming languages such as Go, JavaScript, and C#. I also have my own initiative, kodvizit, where I pursue personal development projects. I welcome the opportunity to collaborate on new and innovative ideas, so don't hesitate to reach out to me.
 
 - 🔭 I’m currently working on a cool private project
 - 🌱 I’m currently learning apache cassandra
